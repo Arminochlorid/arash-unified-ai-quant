@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you reference this software in academic work, cite it as follows."
+title: "Arash Unified AI Quant"
+type: software
+authors:
+  - family-names: "Yousefi"
+    given-names: "Seyed Arash"
+version: 1.0.0
+date-released: 2026-09-22
+abstract: >-
+  A leakage-aware, multi-market research framework for evaluating separate
+  technical setup families with purged walk-forward machine learning.
